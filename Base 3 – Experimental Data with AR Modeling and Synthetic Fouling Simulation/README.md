@@ -21,4 +21,4 @@ To reproduce the analysis for Base 3, follow this order:
 5. **`Transfer_Learning_Trocadores.m`**  
    Applies SVM classification and evaluates Transfer Learning performance via Joint Distribution Adaptation (JDA).
 
-All experimental data, model parameters, and extracted features are stored in `.mat` files to ensure reproducibility.
+All experimental data, model parameters, and extracted features are stored in `.mat` files to ensure reproducibility. The raw `.csv` files are also in the folders.
